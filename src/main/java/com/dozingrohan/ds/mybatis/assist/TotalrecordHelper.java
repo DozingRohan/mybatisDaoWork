@@ -1,4 +1,4 @@
-package com.hundsun.ppos.ds.mybatis.assist;
+package com.dozingrohan.ds.mybatis.assist;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,6 +1,6 @@
-package com.hundsun.ppos.ds.api.model;
+package com.dozingrohan.ds.api.model;
 
-import com.hundsun.ppos.ds.util.ReflectUtil;
+import com.dozingrohan.ds.util.ReflectUtil;
 import org.springframework.util.Assert;
 
 import java.io.Serializable;

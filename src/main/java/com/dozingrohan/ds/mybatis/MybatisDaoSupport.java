@@ -1,4 +1,4 @@
-package com.hundsun.ppos.ds.mybatis;
+package com.dozingrohan.ds.mybatis;
 
 import java.util.Collection;
 import java.util.HashMap;
@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import com.hundsun.ppos.ds.mybatis.assist.TotalrecordHelper;
+import com.dozingrohan.ds.mybatis.assist.TotalrecordHelper;
 import org.apache.ibatis.mapping.ResultMap;
 import org.apache.ibatis.mapping.ResultMapping;
 import org.apache.ibatis.session.RowBounds;
@@ -14,11 +14,11 @@ import org.mybatis.spring.support.SqlSessionDaoSupport;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.hundsun.ppos.ds.api.model.BasePo;
-import com.hundsun.ppos.ds.api.DaoSupport;
-import com.hundsun.ppos.ds.api.model.PageResult;
-import com.hundsun.ppos.ds.constant.DsConstant;
-import com.hundsun.ppos.ds.mybatis.assist.SelectForUpdateHelper;
+import com.dozingrohan.ds.api.model.BasePo;
+import com.dozingrohan.ds.api.DaoSupport;
+import com.dozingrohan.ds.api.model.PageResult;
+import com.dozingrohan.ds.constant.DsConstant;
+import com.dozingrohan.ds.mybatis.assist.SelectForUpdateHelper;
 
 /**
  * @Description: mybatis持久化实现

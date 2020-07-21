@@ -1,9 +1,9 @@
-package com.hundsun.ppos.ds.mybatis.config;
+package com.dozingrohan.ds.mybatis.config;
 
 import com.alibaba.druid.util.JdbcConstants;
-import com.hundsun.ppos.ds.mybatis.MybatisDaoSupport;
-import com.hundsun.ppos.ds.mybatis.assist.MySqlInterceptor;
-import com.hundsun.ppos.ds.mybatis.assist.OracleInterceptor;
+import com.dozingrohan.ds.mybatis.MybatisDaoSupport;
+import com.dozingrohan.ds.mybatis.assist.MySqlInterceptor;
+import com.dozingrohan.ds.mybatis.assist.OracleInterceptor;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.ibatis.plugin.Interceptor;
 import org.apache.ibatis.type.JdbcType;
@@ -22,13 +22,10 @@ import org.springframework.core.env.Environment;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
-import org.springframework.lang.NonNullApi;
 import org.springframework.transaction.PlatformTransactionManager;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 

@@ -1,7 +1,7 @@
-package com.hundsun.ppos.ds.api;
+package com.dozingrohan.ds.api;
 
-import com.hundsun.ppos.ds.api.model.BasePo;
-import com.hundsun.ppos.ds.api.model.PageResult;
+import com.dozingrohan.ds.api.model.BasePo;
+import com.dozingrohan.ds.api.model.PageResult;
 
 import java.util.List;
 import java.util.Map;

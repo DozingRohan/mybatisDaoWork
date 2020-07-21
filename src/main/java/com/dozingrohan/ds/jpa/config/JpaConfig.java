@@ -1,4 +1,4 @@
-package com.hundsun.ppos.ds.jpa.config;
+package com.dozingrohan.ds.jpa.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

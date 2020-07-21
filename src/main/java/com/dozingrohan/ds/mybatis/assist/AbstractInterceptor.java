@@ -1,4 +1,4 @@
-package com.hundsun.ppos.ds.mybatis.assist;
+package com.dozingrohan.ds.mybatis.assist;
 
 import java.sql.Connection;
 import java.util.List;
@@ -7,7 +7,7 @@ import java.util.Properties;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.hundsun.ppos.ds.mybatis.MybatisDaoSupport;
+import com.dozingrohan.ds.mybatis.MybatisDaoSupport;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.reflect.FieldUtils;
 import org.apache.ibatis.executor.statement.PreparedStatementHandler;
@@ -22,9 +22,9 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 import org.springframework.util.CollectionUtils;
 
-import com.hundsun.ppos.ds.api.model.BasePo;
-import com.hundsun.ppos.ds.api.model.Order;
-import com.hundsun.ppos.ds.constant.DsConstant;
+import com.dozingrohan.ds.api.model.BasePo;
+import com.dozingrohan.ds.api.model.Order;
+import com.dozingrohan.ds.constant.DsConstant;
 
 /**
  * @Description: 

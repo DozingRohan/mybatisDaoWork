@@ -1,4 +1,4 @@
-package com.hundsun.ppos.ds.api.model;
+package com.dozingrohan.ds.api.model;
 
 import java.io.Serializable;
 

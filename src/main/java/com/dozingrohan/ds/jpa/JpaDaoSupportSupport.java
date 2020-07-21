@@ -1,10 +1,10 @@
-package com.hundsun.ppos.ds.jpa;
+package com.dozingrohan.ds.jpa;
 
 import java.util.List;
 import java.util.Map;
-import com.hundsun.ppos.ds.api.model.BasePo;
-import com.hundsun.ppos.ds.api.DaoSupport;
-import com.hundsun.ppos.ds.api.model.PageResult;
+import com.dozingrohan.ds.api.model.BasePo;
+import com.dozingrohan.ds.api.DaoSupport;
+import com.dozingrohan.ds.api.model.PageResult;
 
 /**
  * @Description: 

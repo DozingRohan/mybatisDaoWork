@@ -1,4 +1,4 @@
-package com.hundsun.ppos.ds.mybatis.assist;
+package com.dozingrohan.ds.mybatis.assist;
 
 /**
  * @Description: 分页辅助

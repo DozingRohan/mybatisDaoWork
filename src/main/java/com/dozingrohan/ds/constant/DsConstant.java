@@ -1,4 +1,4 @@
-package com.hundsun.ppos.ds.constant;
+package com.dozingrohan.ds.constant;
 
 public interface DsConstant {
 	
