@@ -10,7 +10,7 @@
 	<properties>
 		<springframework.version>5.2.3.RELEASE</springframework.version>
 		<mybatis.spring.version>2.0.5</mybatis.spring.version>
-		<mybatis.version>3.5.5</mybatis.version>
+		<mybatis.version>3.5.6</mybatis.version>
 	</properties>
 
 	<!-- jar依赖进引入工程，不影响主版本（mybatis和mybatis-spring的版本不能过低），所以工程的maven依赖的scope使用provided -->
