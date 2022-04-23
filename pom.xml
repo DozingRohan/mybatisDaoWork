@@ -8,7 +8,7 @@
 	<artifactId>ore-dao</artifactId>
 
 	<properties>
-		<springframework.version>5.2.3.RELEASE</springframework.version>
+		<springframework.version>5.3.19</springframework.version>
 		<mybatis.spring.version>2.0.5</mybatis.spring.version>
 		<mybatis.version>3.5.5</mybatis.version>
 	</properties>
